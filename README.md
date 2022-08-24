@@ -8,7 +8,7 @@ This is normal text
 
  - first bullet
     - Sub bullet
-        - Sub subullet
+        - Sub subbullet
  - Second Bullet
  - Third Bullet
 
