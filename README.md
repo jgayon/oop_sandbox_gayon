@@ -1,1 +1,24 @@
-# oop_sandbox_gayon
+# OOP Sandbox for Jose Gayon
+
+## This is a Subtitle
+
+### Sub Subtitle
+
+This is normal text
+
+ - first bullet
+    - Sub bullet
+        - Sub subullet
+ - Second Bullet
+ - Third Bullet
+
+This is a hyperlink for [readsy](http://www.readsy.co/)
+
+This is inline code `import panda as pd`
+
+Below a block of code
+ ```
+ import panda as pd
+
+ ```
+ 
